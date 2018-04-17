@@ -1,3 +1,12 @@
+
+This repository will contain some reports about fundamentals of information retrieval. Problems and concepts here explored are guided by Information Retrieval classes from Computer Science course at UFCG 2018.1 (professor: Leandro Balby). 
+
+Main bibliography references are:
+
+ - Introduction to Information Retrieval. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze. Cambridge 2009.
+ - Information Retrieval: Implementing and Evaluating Search Engines. Stean Bütcher, Charles L.A. Clarke, Gordon V. Cormack. MIT 2010
+
+
 ## Set up env
 
 * [Download](https://www.anaconda.com/download/#linux) and install Anaconda
@@ -33,7 +42,7 @@ conda create --name rec-info-env python=3
 * Usage
 
 ```
-source activate doc_env
+source activate rec-info-env
 source deactivate
 ```
 (or replace 'source' by '.')
